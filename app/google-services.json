@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "936282584389",
+    "firebase_url": "https://newfirebasestorage-250ba.firebaseio.com",
+    "project_id": "newfirebasestorage-250ba",
+    "storage_bucket": "newfirebasestorage-250ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936282584389:android:c728199eb63c4542c9ba2c",
+        "android_client_info": {
+          "package_name": "com.example.androidmyrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936282584389-5umsm7l1bq9ir1klm3pqq6v9qd34acjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8DsZjGTHEVpByM_p3h9MP_i5Bdi0jZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936282584389-5umsm7l1bq9ir1klm3pqq6v9qd34acjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936282584389:android:53ad8bc56b993d60c9ba2c",
+        "android_client_info": {
+          "package_name": "com.example.kotlinfirebasecustomui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936282584389-luve1d484ejc3i95lc5es4a58i8idq6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinfirebasecustomui",
+            "certificate_hash": "6f57af4a637f4353716b516e95514c42af224833"
+          }
+        },
+        {
+          "client_id": "936282584389-5umsm7l1bq9ir1klm3pqq6v9qd34acjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8DsZjGTHEVpByM_p3h9MP_i5Bdi0jZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936282584389-5umsm7l1bq9ir1klm3pqq6v9qd34acjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
